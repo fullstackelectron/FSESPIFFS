@@ -1,0 +1,26 @@
+{  
+  "name": "FSESPIFFS",
+  "version": "1.0.0",
+  "description": "A library to handle saving to  SPIFFS",
+  "keywords": "SPIFFS",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/fullstackelectron/FSESPIFFS.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Fullstack Electron",
+      "email": "info@fullstackelectron.com",
+      "url": "https://fullstackelectron.com"
+    }
+  ],
+  "dependencies": {
+	"bblanchon/ArduinoJson": "^6.17.2"
+  },
+  "license": "MIT",
+  "homepage": "https://fullstackelectron.com",
+  "frameworks": "*",
+  "platforms": "*"
+}
